@@ -28,9 +28,10 @@ This dataset contains 16,598 video game records, including:
 
 Compared the percentage of video game sales for each genre in North America and Japan.
 
-**Findings:** Role-Playing games had the largest positive difference, with Japan having 19.84% 
-              more market share compared to North America. Shooter games had the largest negative 
-              difference, with North America having 10.3% more market share compared to Japan.
+**Findings:** 
+Role-playing games had the largest positive difference in regional market share, accounting for 19.84 
+percentage points more of Japan's sales than North America's. 
+Shooter games had the largest negative difference, accounting for 10.3 percentage points more of North America's sales than Japan's.
 
 **SQL techniques:** CTEs, `CROSS JOIN`, `GROUP BY`, `SUM()`, percentage calculations.
 
